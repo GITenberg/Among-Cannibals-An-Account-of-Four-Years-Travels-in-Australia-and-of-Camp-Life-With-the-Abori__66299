@@ -1,0 +1,44 @@
+_repo: Among-Cannibals-An-Account-of-Four-Years-Travels-in-Australia-and-of-Camp-Life-With-the-Abori__66299
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Anderson, Rasmus Björn
+    aliases:
+    - Anderson, R. B. (Rasmus Björn)
+    - Anderson, Rasmus Bjorn
+    - Anderson, Rasmus B. (Rasmus Björn)
+    birthdate: 1846
+    deathdate: 1936
+    gutenberg_agent_id: '4534'
+    url: http://www.gutenberg.org/2009/agents/4534
+    wikipedia: https://en.wikipedia.org/wiki/Rasmus_B._Anderson
+creator:
+  author:
+    agent_name: Lumholtz, Carl
+    alias: Lumholtz, Karl Sofus
+    birthdate: 1851
+    deathdate: 1922
+    gutenberg_agent_id: '2486'
+    url: http://www.gutenberg.org/2009/agents/2486
+    wikipedia: https://en.wikipedia.org/wiki/Carl_Sofus_Lumholtz
+description: ''
+gutenberg_issued: '2021-09-14'
+identifiers:
+  gutenberg: '66299'
+language: en
+pgterms:marc904: https://archive.org/details/amongcannibalsac1889lumh
+pgterms:marc905: 20180427192239lumholtz
+pgterms:marc906: '1889'
+pgterms:marc907: US
+production_note: Richard Tonsing, amsibert, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Charles Scribner's Sons,1889.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Among Cannibals: An Account of Four Years’ Travels in Australia and of Camp
+  Life With the Aborigines of Queensland'
+url: http://www.gutenberg.org/ebooks/66299
