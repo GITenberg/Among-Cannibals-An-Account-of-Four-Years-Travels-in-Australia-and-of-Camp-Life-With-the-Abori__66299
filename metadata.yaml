@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '4534'
     url: http://www.gutenberg.org/2009/agents/4534
     wikipedia: https://en.wikipedia.org/wiki/Rasmus_B._Anderson
+covers:
+- cover_type: archival
+  image_path: 66299-h/images/cover.jpg
 creator:
   author:
     agent_name: Lumholtz, Carl
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2486
     wikipedia: https://en.wikipedia.org/wiki/Carl_Sofus_Lumholtz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66299#Among-Cannibals-An-Account-of-Four-Years-Travels-in-Australia-and-of-Camp-Life-With-the-Abori_
 gutenberg_issued: '2021-09-14'
 identifiers:
   gutenberg: '66299'
